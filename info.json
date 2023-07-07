@@ -1,0 +1,21 @@
+{
+  "name" : "IF Blocks Core",
+  "slug" : "if-blocks-core",
+  "author" : "<a href='https://inboundfound.com/'>Inbound Found</a>",
+  "author_profile" : "",
+  "version" : "1.5.7",
+  "download_url" : "http://aeriallust.com/wp-content/uploads/updater/if-blocks-core.zip",
+  "requires" : "5.3",
+  "tested" : "6.2",
+  "requires_php" : "7.0",
+  "last_updated" : "2023-07-06 10:47:00",
+  "sections" : {
+    "description" : "These are some good blocks!",
+    "installation" : "Click the activate button and that's it.",
+    "changelog" : ""
+  },
+  "banners" : {
+    "low" : "https://inboundfound.com/wp-content/uploads/2016/05/hero-pups-1024x640.jpg",
+    "high" : "https://inboundfound.com/wp-content/uploads/2016/05/hero-pups.jpg"
+  }
+}
